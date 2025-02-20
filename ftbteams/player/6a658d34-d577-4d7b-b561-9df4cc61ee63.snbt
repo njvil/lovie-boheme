@@ -1,0 +1,15 @@
+{
+	id: "6a658d34-d577-4d7b-b561-9df4cc61ee63"
+	type: "player"
+	player_name: "Marilag"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Marilag"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

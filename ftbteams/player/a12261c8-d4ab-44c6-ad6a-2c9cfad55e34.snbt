@@ -1,0 +1,15 @@
+{
+	id: "a12261c8-d4ab-44c6-ad6a-2c9cfad55e34"
+	type: "player"
+	player_name: "ItsAlue"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Axiionn"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9E59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
