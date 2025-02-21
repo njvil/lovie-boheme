@@ -188,7 +188,6 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-02-17 17:23:11 +0800",
-      "abnormals_delight:honey_glazed_ham": "2025-02-20 17:46:36 +0800",
       "abnormals_delight:hamburger": "2025-02-17 17:30:48 +0800",
       "suspicious_stew": "2025-02-16 00:16:14 +0800",
       "cookie": "2025-02-17 23:35:27 +0800",
@@ -676,7 +675,6 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "shepherds_pie": "2025-02-18 00:17:15 +0800",
-      "honey_glazed_ham": "2025-02-20 17:46:36 +0800",
       "fish_stew": "2025-02-17 18:07:24 +0800",
       "stuffed_pumpkin": "2025-02-18 01:22:56 +0800",
       "beef_stew": "2025-02-16 01:19:10 +0800",

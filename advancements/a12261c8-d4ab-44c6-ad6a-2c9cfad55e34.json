@@ -1544,5 +1544,35 @@
     },
     "done": true
   },
+  "brewinandchewin:main/place_keg": {
+    "criteria": {
+      "placed_keg": "2025-02-21 05:09:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2025-02-21 20:25:34 +0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-21 20:25:34 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/cacti": {
+    "criteria": {
+      "cacti": "2025-02-21 20:01:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_stripped_birch_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-21 19:16:30 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
