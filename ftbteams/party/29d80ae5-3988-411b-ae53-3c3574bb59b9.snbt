@@ -4,7 +4,7 @@
 	owner: "a12261c8-d4ab-44c6-ad6a-2c9cfad55e34"
 	ranks: {
 		a12261c8-d4ab-44c6-ad6a-2c9cfad55e34: "owner"
-		6a658d34-d577-4d7b-b561-9df4cc61ee63: "member"
+		6a658d34-d577-4d7b-b561-9df4cc61ee63: "officer"
 	}
 	properties: {
 		"ftbteams:display_name": "Lovie"
@@ -18,6 +18,7 @@
 		{ from: "a12261c8-d4ab-44c6-ad6a-2c9cfad55e34", date: 1739635244581L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Marilag\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1739635256765L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Marilag\"}]}" }
 		{ from: "a12261c8-d4ab-44c6-ad6a-2c9cfad55e34", date: 1739796676143L, text: "{\"text\":\"hi\"}" }
+		{ from: "a12261c8-d4ab-44c6-ad6a-2c9cfad55e34", date: 1740270640468L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"Marilag\"}]}" }
 	]
 	extra: { }
 }
