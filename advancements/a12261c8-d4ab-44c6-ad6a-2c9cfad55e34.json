@@ -111,10 +111,13 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "dry_bushland": "2025-02-18 00:00:53 +0800",
+      "fen": "2025-02-23 23:49:37 +0800",
       "sparse_rainforest": "2025-02-15 23:58:27 +0800",
+      "bayou": "2025-02-24 01:22:54 +0800",
       "prismachasm": "2025-02-22 17:11:35 +0800",
       "rocky_reef": "2025-02-17 23:59:36 +0800",
       "redstone_caves": "2025-02-22 17:11:32 +0800",
+      "grassy_beach": "2025-02-24 02:31:32 +0800",
       "tropical_river": "2025-02-16 00:04:13 +0800",
       "eucalyptus_forest": "2025-02-22 16:58:00 +0800",
       "magnolia_highlands": "2025-02-22 17:29:08 +0800",
@@ -124,6 +127,7 @@
       "chalk_cliffs": "2025-02-17 23:59:48 +0800",
       "saguaro_desert": "2025-02-21 22:18:34 +0800",
       "baobab_savanna": "2025-02-18 00:00:44 +0800",
+      "gravel_beach": "2025-02-23 23:48:03 +0800",
       "redwoods": "2025-02-22 18:47:04 +0800",
       "rainforest": "2025-02-16 00:08:03 +0800",
       "bioshroom_caves": "2025-02-16 00:40:47 +0800"
@@ -133,8 +137,11 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "dry_bushland": "2025-02-18 00:00:53 +0800",
+      "fen": "2025-02-23 23:49:37 +0800",
       "sparse_rainforest": "2025-02-15 23:58:27 +0800",
+      "bayou": "2025-02-24 01:22:54 +0800",
       "rocky_reef": "2025-02-17 23:59:36 +0800",
+      "grassy_beach": "2025-02-24 02:31:32 +0800",
       "tropical_river": "2025-02-16 00:04:13 +0800",
       "eucalyptus_forest": "2025-02-22 16:58:00 +0800",
       "magnolia_highlands": "2025-02-22 17:29:08 +0800",
@@ -144,6 +151,7 @@
       "chalk_cliffs": "2025-02-17 23:59:48 +0800",
       "saguaro_desert": "2025-02-21 22:18:34 +0800",
       "baobab_savanna": "2025-02-18 00:00:44 +0800",
+      "gravel_beach": "2025-02-23 23:48:03 +0800",
       "redwoods": "2025-02-22 18:47:04 +0800",
       "rainforest": "2025-02-16 00:08:03 +0800"
     },
@@ -169,6 +177,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-24 02:44:38 +0800",
       "minecraft:badlands": "2025-02-22 17:28:06 +0800",
       "minecraft:savanna_plateau": "2025-02-22 17:28:44 +0800",
       "minecraft:beach": "2025-02-16 00:03:49 +0800",
@@ -176,9 +185,15 @@
       "minecraft:sparse_jungle": "2025-02-22 18:08:40 +0800",
       "minecraft:lukewarm_ocean": "2025-02-17 23:49:13 +0800",
       "minecraft:river": "2025-02-21 22:06:58 +0800",
+      "atmospheric:atmospheric:rainforest_basin": "2025-02-24 02:52:30 +0800",
+      "minecraft:swamp": "2025-02-23 23:50:05 +0800",
+      "minecraft:cold_ocean": "2025-02-24 01:47:39 +0800",
       "minecraft:forest": "2025-02-22 18:42:41 +0800",
+      "atmospheric:atmospheric:sparse_rainforest_basin": "2025-02-24 03:20:35 +0800",
+      "minecraft:lush_caves": "2025-02-24 03:22:26 +0800",
       "minecraft:desert": "2025-02-16 00:53:18 +0800",
       "atmospheric:atmospheric:scrubland": "2025-02-16 00:59:15 +0800",
+      "minecraft:ocean": "2025-02-24 02:33:51 +0800",
       "minecraft:warm_ocean": "2025-02-17 18:05:21 +0800",
       "minecraft:deep_lukewarm_ocean": "2025-02-17 23:49:09 +0800",
       "atmospheric:atmospheric:dunes": "2025-02-22 16:44:07 +0800",
@@ -209,6 +224,7 @@
     "criteria": {
       "abnormals_delight:ham": "2025-02-23 07:52:51 +0800",
       "baked_potato": "2025-02-17 17:40:36 +0800",
+      "abnormals_delight:kelp_roll_slice": "2025-02-23 21:24:22 +0800",
       "upgrade_aquatic:mulberry_bread": "2025-02-21 22:40:47 +0800",
       "atmospheric:shimmering_passion_fruit": "2025-02-22 23:38:57 +0800",
       "abnormals_delight:honey_glazed_ham": "2025-02-22 02:17:19 +0800",
@@ -231,6 +247,7 @@
       "cooked_chicken": "2025-02-23 08:04:49 +0800",
       "mushroom_stew": "2025-02-17 20:22:31 +0800",
       "abnormals_delight:beef_stew": "2025-02-22 16:28:36 +0800",
+      "abnormals_delight:pasta_with_meatballs": "2025-02-24 01:13:18 +0800",
       "abnormals_delight:shepherds_pie": "2025-02-18 00:17:09 +0800",
       "golden_carrot": "2025-02-17 18:48:14 +0800",
       "enchanted_golden_apple": "2025-02-18 01:02:30 +0800",
@@ -268,20 +285,27 @@
     "criteria": {
       "caverns_and_chasms:deeper": "2025-02-22 03:53:46 +0800",
       "minecraft:pillager": "2025-02-22 18:26:42 +0800",
+      "minecraft:blaze": "2025-02-23 23:04:33 +0800",
       "minecraft:skeleton": "2025-02-16 00:21:55 +0800",
       "savage_and_ravage:creepie": "2025-02-22 18:27:53 +0800",
       "minecraft:ravager": "2025-02-22 18:35:47 +0800",
       "savage_and_ravage:executioner": "2025-02-22 18:34:02 +0800",
+      "minecraft:hoglin": "2025-02-23 22:42:39 +0800",
       "minecraft:vindicator": "2025-02-22 18:27:14 +0800",
+      "minecraft:magma_cube": "2025-02-23 23:07:07 +0800",
       "minecraft:spider": "2025-02-16 00:32:43 +0800",
+      "minecraft:piglin_brute": "2025-02-23 22:42:28 +0800",
       "minecraft:creeper": "2025-02-17 20:23:43 +0800",
       "savage_and_ravage:trickster": "2025-02-22 18:34:27 +0800",
       "minecraft:slime": "2025-02-22 04:19:30 +0800",
       "caverns_and_chasms:peeper": "2025-02-22 04:06:59 +0800",
       "quark:forgotten": "2025-02-18 00:44:55 +0800",
       "minecraft:phantom": "2025-02-22 18:09:12 +0800",
+      "minecraft:zombified_piglin": "2025-02-23 23:04:30 +0800",
       "minecraft:witch": "2025-02-22 18:29:13 +0800",
+      "minecraft:wither_skeleton": "2025-02-23 23:04:27 +0800",
       "minecraft:husk": "2025-02-16 00:54:26 +0800",
+      "minecraft:piglin": "2025-02-23 22:41:19 +0800",
       "minecraft:silverfish": "2025-02-16 00:20:19 +0800",
       "minecraft:stray": "2025-02-16 00:11:09 +0800",
       "minecraft:enderman": "2025-02-21 21:37:04 +0800",
@@ -1173,6 +1197,7 @@
       "beetroot": "2025-02-17 21:05:44 +0800",
       "potato": "2025-02-17 22:26:34 +0800",
       "wheat": "2025-02-23 06:08:30 +0800",
+      "pumpkin": "2025-02-23 22:08:00 +0800",
       "carrot": "2025-02-17 22:26:31 +0800"
     },
     "done": false
@@ -1320,7 +1345,8 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "joshua_log": "2025-02-22 16:48:29 +0800",
-      "palm_log": "2025-02-17 22:36:07 +0800"
+      "palm_log": "2025-02-17 22:36:07 +0800",
+      "cypress_log": "2025-02-24 02:24:58 +0800"
     },
     "done": false
   },
@@ -1484,6 +1510,7 @@
     "criteria": {
       "shepherds_pie": "2025-02-18 00:17:09 +0800",
       "honey_glazed_ham": "2025-02-22 02:17:19 +0800",
+      "pasta_with_meatballs": "2025-02-24 01:13:18 +0800",
       "stuffed_pumpkin": "2025-02-18 01:22:25 +0800",
       "beef_stew": "2025-02-22 16:28:36 +0800",
       "roast_chicken": "2025-02-22 01:49:01 +0800"
@@ -2152,7 +2179,8 @@
   },
   "hopo:minecraft/adventure/all_mineshaft": {
     "criteria": {
-      "locate_acacia_mineshaft": "2025-02-23 00:21:30 +0800"
+      "locate_acacia_mineshaft": "2025-02-23 00:21:30 +0800",
+      "locate_mud_mineshaft": "2025-02-24 01:19:04 +0800"
     },
     "done": false
   },
@@ -2276,6 +2304,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-23 03:15:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/stripped_spruce_wood_from_spruce_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-23 03:30:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-23 03:30:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/barrel_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-23 03:53:58 +0800"
@@ -2285,24 +2331,6 @@
   "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-23 03:53:58 +0800"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/make_a_sign_glow": {
-    "criteria": {
-      "make_a_sign_glow": "2025-02-23 04:21:14 +0800"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
-    "criteria": {
-      "scroll_forge": "2025-02-23 08:19:48 +0800"
-    },
-    "done": true
-  },
-  "ars_nouveau:imbuement_chamber": {
-    "criteria": {
-      "has_imbuement_chamber": "2025-02-23 08:22:04 +0800"
     },
     "done": true
   },
@@ -2342,33 +2370,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/rotten_egg": {
-    "criteria": {
-      "bestiary": "2025-02-23 07:04:46 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/stripped_spruce_wood_from_spruce_wood_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-23 03:30:37 +0800"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/minecart": {
-    "criteria": {
-      "has_item": "2025-02-23 07:55:58 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-23 03:53:58 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_wood_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-02-23 03:30:37 +0800"
     },
     "done": true
   },
@@ -2390,15 +2394,33 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
-    "criteria": {
-      "arcane_anvil": "2025-02-23 08:23:16 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-23 03:53:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-23 03:53:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-02-23 04:21:14 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-02-23 07:04:46 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/minecart": {
+    "criteria": {
+      "has_item": "2025-02-23 07:55:58 +0800"
     },
     "done": true
   },
@@ -2408,15 +2430,468 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_wood_woodcutting": {
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
-      "give_recipe": "2025-02-23 03:15:30 +0800"
+      "scroll_forge": "2025-02-23 08:19:48 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_slab_woodcutting": {
+  "ars_nouveau:imbuement_chamber": {
     "criteria": {
-      "give_recipe": "2025-02-23 03:53:58 +0800"
+      "has_imbuement_chamber": "2025-02-23 08:22:04 +0800"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-02-23 08:23:16 +0800"
+    },
+    "done": true
+  },
+  "eidolon:pewter_ingot": {
+    "criteria": {
+      "has_pewter_ingot": "2025-02-23 21:00:31 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-02-23 21:03:33 +0800"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-02-23 22:04:10 +0800"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:scarecrow": {
+    "criteria": {
+      "scarecrow_0": "2025-02-23 22:12:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-23 22:38:34 +0800"
+    },
+    "done": true
+  },
+  "netherexp:nether/ssv_sub_biomes": {
+    "criteria": {
+      "netherexp:black_ice_glaciers": "2025-02-23 22:38:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-23 22:38:34 +0800"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-23 22:38:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-23 22:42:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-23 22:42:54 +0800"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-02-23 22:47:18 +0800"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-02-23 22:49:48 +0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-02-23 22:53:35 +0800"
+    },
+    "done": true
+  },
+  "netherexp:nether/rattling_remnants": {
+    "criteria": {
+      "structure": "2025-02-23 22:55:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-02-23 22:57:00 +0800"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed": "2025-02-23 23:00:18 +0800"
+    },
+    "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:flooded_deltas": "2025-02-23 23:01:17 +0800"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-02-23 23:04:13 +0800"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-02-23 23:04:18 +0800"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-02-23 23:27:35 +0800"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_diamond": {
+    "criteria": {
+      "cincinnasite_diamond": "2025-02-23 23:27:52 +0800"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_tools": {
+    "criteria": {
+      "cincinnasite_EquipmentSlot[name\u003dsword, category\u003dCOMBAT]": "2025-02-23 23:28:52 +0800"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_gear": {
+    "criteria": {
+      "cincinnasite_EquipmentSlot[name\u003dboots, category\u003dCOMBAT]": "2025-02-23 23:29:00 +0800",
+      "cincinnasite_EquipmentSlot[name\u003dchestplate, category\u003dCOMBAT]": "2025-02-24 01:01:28 +0800",
+      "cincinnasite_EquipmentSlot[name\u003dleggings, category\u003dCOMBAT]": "2025-02-24 01:01:23 +0800",
+      "cincinnasite_EquipmentSlot[name\u003dhelmet, category\u003dCOMBAT]": "2025-02-24 01:01:19 +0800"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_ore": {
+    "criteria": {
+      "cincinnasite_ore": "2025-02-23 23:30:38 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/enter_swamp": {
+    "criteria": {
+      "enter_swamp2": "2025-02-23 23:50:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-23 23:54:22 +0800"
+    },
+    "done": true
+  },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-02-24 00:16:30 +0800"
+    },
+    "done": true
+  },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-02-24 00:25:38 +0800"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-02-24 00:54:31 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-02-24 01:12:08 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/sunken_ruin": {
+    "criteria": {
+      "ruin": "2025-02-24 01:53:26 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/lightning_bug_bottle": {
+    "criteria": {
+      "lightning_bug_bottle": "2025-02-24 01:53:53 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/bottle_o_lightning": {
+    "criteria": {
+      "lightning_bottle": "2025-02-24 01:55:14 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-24 02:16:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_planks_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_connected_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_connected_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_layered_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/stripped_willow_log_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_pressure_plate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_door_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_slab_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_chest_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_sign_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pressure_plate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_button_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_sign_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_gate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_connected_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_fence_gate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_door_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_stairs_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_slab_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_button_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_stairs_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_trapdoor_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/crafting_table_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_fence_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/barrel_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_connected_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_layered_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_trapdoor_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 02:24:52 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-02-24 02:35:59 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-24 02:47:04 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:airship_village": {
+    "criteria": {
+      "in_airship_village": "2025-02-24 02:58:39 +0800"
     },
     "done": true
   },

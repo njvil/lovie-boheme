@@ -111,10 +111,13 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "dry_bushland": "2025-02-17 20:27:39 +0800",
+      "fen": "2025-02-23 23:49:36 +0800",
       "sparse_rainforest": "2025-02-15 23:57:01 +0800",
+      "bayou": "2025-02-24 01:23:11 +0800",
       "prismachasm": "2025-02-22 17:11:36 +0800",
       "rocky_reef": "2025-02-16 00:40:14 +0800",
       "redstone_caves": "2025-02-22 17:11:33 +0800",
+      "grassy_beach": "2025-02-24 02:34:35 +0800",
       "rocky_meadow": "2025-02-17 20:47:47 +0800",
       "tropical_river": "2025-02-16 00:04:04 +0800",
       "magnolia_highlands": "2025-02-17 20:51:24 +0800",
@@ -125,6 +128,7 @@
       "chalk_cliffs": "2025-02-17 20:47:38 +0800",
       "saguaro_desert": "2025-02-21 22:18:38 +0800",
       "baobab_savanna": "2025-02-18 00:00:43 +0800",
+      "gravel_beach": "2025-02-23 23:48:04 +0800",
       "redwoods": "2025-02-22 18:47:02 +0800",
       "rainforest": "2025-02-16 00:06:38 +0800",
       "bioshroom_caves": "2025-02-16 00:42:42 +0800"
@@ -134,8 +138,11 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "dry_bushland": "2025-02-17 20:27:39 +0800",
+      "fen": "2025-02-23 23:49:36 +0800",
       "sparse_rainforest": "2025-02-15 23:57:01 +0800",
+      "bayou": "2025-02-24 01:23:11 +0800",
       "rocky_reef": "2025-02-16 00:40:14 +0800",
+      "grassy_beach": "2025-02-24 02:34:35 +0800",
       "rocky_meadow": "2025-02-17 20:47:47 +0800",
       "tropical_river": "2025-02-16 00:04:04 +0800",
       "magnolia_highlands": "2025-02-17 20:51:24 +0800",
@@ -146,6 +153,7 @@
       "chalk_cliffs": "2025-02-17 20:47:38 +0800",
       "saguaro_desert": "2025-02-21 22:18:38 +0800",
       "baobab_savanna": "2025-02-18 00:00:43 +0800",
+      "gravel_beach": "2025-02-23 23:48:04 +0800",
       "redwoods": "2025-02-22 18:47:02 +0800",
       "rainforest": "2025-02-16 00:06:38 +0800"
     },
@@ -179,6 +187,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-24 02:44:23 +0800",
       "minecraft:badlands": "2025-02-22 17:27:58 +0800",
       "minecraft:savanna_plateau": "2025-02-22 17:28:34 +0800",
       "minecraft:beach": "2025-02-16 00:03:36 +0800",
@@ -186,9 +195,14 @@
       "minecraft:sparse_jungle": "2025-02-22 18:08:42 +0800",
       "minecraft:river": "2025-02-16 01:22:31 +0800",
       "minecraft:lukewarm_ocean": "2025-02-17 20:47:26 +0800",
+      "atmospheric:atmospheric:rainforest_basin": "2025-02-24 02:52:47 +0800",
+      "minecraft:swamp": "2025-02-23 23:49:57 +0800",
       "minecraft:forest": "2025-02-22 18:07:15 +0800",
+      "atmospheric:atmospheric:sparse_rainforest_basin": "2025-02-24 03:20:37 +0800",
+      "minecraft:lush_caves": "2025-02-24 03:22:25 +0800",
       "minecraft:desert": "2025-02-16 00:53:10 +0800",
       "atmospheric:atmospheric:scrubland": "2025-02-16 00:57:14 +0800",
+      "minecraft:ocean": "2025-02-24 02:36:05 +0800",
       "minecraft:warm_ocean": "2025-02-17 18:04:54 +0800",
       "minecraft:deep_lukewarm_ocean": "2025-02-17 23:49:10 +0800",
       "atmospheric:atmospheric:dunes": "2025-02-22 16:44:14 +0800",
@@ -207,6 +221,7 @@
     "criteria": {
       "honey_bottle": "2025-02-22 16:28:37 +0800",
       "baked_potato": "2025-02-17 17:23:11 +0800",
+      "abnormals_delight:kelp_roll_slice": "2025-02-23 21:15:57 +0800",
       "abnormals_delight:honey_glazed_ham": "2025-02-22 15:11:43 +0800",
       "abnormals_delight:hamburger": "2025-02-17 17:30:48 +0800",
       "suspicious_stew": "2025-02-16 00:16:14 +0800",
@@ -234,9 +249,11 @@
       "cooked_mutton": "2025-02-21 22:16:09 +0800",
       "abnormals_delight:beef_stew": "2025-02-16 01:19:10 +0800",
       "abnormals_delight:melon_popsicle": "2025-02-22 17:17:29 +0800",
+      "abnormals_delight:pasta_with_meatballs": "2025-02-24 01:17:45 +0800",
       "abnormals_delight:shepherds_pie": "2025-02-18 00:17:15 +0800",
       "supplementaries:candy": "2025-02-17 23:44:21 +0800",
       "golden_carrot": "2025-02-16 00:53:57 +0800",
+      "atmospheric:golden_dragon_fruit": "2025-02-23 18:47:19 +0800",
       "carrot": "2025-02-17 21:56:32 +0800"
     },
     "done": false
@@ -511,23 +528,32 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-17 20:55:29 +0800",
+      "minecraft:blaze": "2025-02-23 23:04:50 +0800",
+      "caverns_and_chasms:deeper": "2025-02-24 02:25:54 +0800",
       "minecraft:skeleton": "2025-02-16 00:21:54 +0800",
       "savage_and_ravage:creepie": "2025-02-22 18:29:32 +0800",
       "minecraft:ravager": "2025-02-22 18:27:56 +0800",
       "savage_and_ravage:executioner": "2025-02-22 18:27:18 +0800",
+      "minecraft:hoglin": "2025-02-23 22:43:42 +0800",
       "minecraft:vindicator": "2025-02-17 21:00:13 +0800",
+      "minecraft:magma_cube": "2025-02-23 22:59:22 +0800",
       "minecraft:spider": "2025-02-16 00:17:16 +0800",
+      "minecraft:piglin_brute": "2025-02-23 22:41:16 +0800",
       "minecraft:creeper": "2025-02-16 00:53:47 +0800",
       "minecraft:slime": "2025-02-23 00:37:32 +0800",
       "quark:forgotten": "2025-02-18 00:10:59 +0800",
       "minecraft:phantom": "2025-02-22 18:09:37 +0800",
+      "minecraft:zombified_piglin": "2025-02-23 23:04:26 +0800",
       "minecraft:witch": "2025-02-17 20:57:07 +0800",
+      "minecraft:wither_skeleton": "2025-02-23 23:04:20 +0800",
       "minecraft:husk": "2025-02-16 00:54:19 +0800",
+      "minecraft:piglin": "2025-02-23 22:40:59 +0800",
       "minecraft:silverfish": "2025-02-16 00:20:26 +0800",
       "minecraft:stray": "2025-02-16 00:11:54 +0800",
       "minecraft:enderman": "2025-02-17 18:23:24 +0800",
       "caverns_and_chasms:mime": "2025-02-23 00:42:18 +0800",
       "minecraft:zombie": "2025-02-16 00:52:27 +0800",
+      "quark:foxhound": "2025-02-23 23:21:22 +0800",
       "minecraft:zombie_villager": "2025-02-22 18:35:39 +0800",
       "savage_and_ravage:skeleton_villager": "2025-02-17 17:32:37 +0800"
     },
@@ -715,6 +741,7 @@
     "criteria": {
       "shepherds_pie": "2025-02-18 00:17:15 +0800",
       "honey_glazed_ham": "2025-02-22 15:11:43 +0800",
+      "pasta_with_meatballs": "2025-02-24 01:17:45 +0800",
       "fish_stew": "2025-02-17 18:07:24 +0800",
       "stuffed_pumpkin": "2025-02-18 01:22:56 +0800",
       "beef_stew": "2025-02-16 01:19:10 +0800",
@@ -1553,6 +1580,7 @@
       "mushgloom": "2025-02-22 15:46:27 +0800",
       "white_inkcap_mushroom": "2025-02-23 00:55:25 +0800",
       "brown_mushroom": "2025-02-18 00:08:45 +0800",
+      "red_mushroom": "2025-02-24 02:13:05 +0800",
       "inkcap_mushroom": "2025-02-23 00:55:25 +0800"
     },
     "done": false
@@ -2022,15 +2050,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_stripped_acacia_log_woodcutting": {
+  "spelunkery:recipes/rough_diamond_shard": {
     "criteria": {
-      "give_recipe": "2025-02-23 00:44:40 +0800"
+      "has_item": "2025-02-22 21:29:05 +0800"
     },
     "done": true
   },
-  "create:encased_fan": {
+  "spelunkery:recipes/raw_gold_nugget": {
     "criteria": {
-      "0": "2025-02-22 22:38:37 +0800"
+      "has_item": "2025-02-22 22:04:42 +0800"
+    },
+    "done": true
+  },
+  "create:extendo_grip": {
+    "criteria": {
+      "0": "2025-02-22 22:09:56 +0800"
     },
     "done": true
   },
@@ -2040,111 +2074,9 @@
     },
     "done": true
   },
-  "hopo:minecraft/adventure/all_mineshaft": {
-    "criteria": {
-      "locate_acacia_mineshaft": "2025-02-22 23:46:20 +0800"
-    },
-    "done": false
-  },
-  "create:extendo_grip": {
-    "criteria": {
-      "0": "2025-02-22 22:09:56 +0800"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2025-02-22 23:15:40 +0800"
-    },
-    "done": true
-  },
-  "oreganized:story/lead_to_dust": {
-    "criteria": {
-      "in_lead_cloud": "2025-02-23 00:32:59 +0800"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/white_inkcap_mushroom": {
-    "criteria": {
-      "has_item": "2025-02-23 00:55:25 +0800"
-    },
-    "done": true
-  },
   "spelunkery:recipes/coal_lump": {
     "criteria": {
       "has_item": "2025-02-22 22:22:57 +0800"
-    },
-    "done": true
-  },
-  "create:super_glue": {
-    "criteria": {
-      "0": "2025-02-22 23:07:19 +0800"
-    },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-02-23 00:22:04 +0800"
-    },
-    "done": true
-  },
-  "create:windmill": {
-    "criteria": {
-      "0": "2025-02-22 23:12:06 +0800"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-02-23 00:23:46 +0800"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/raw_magnetite_nugget": {
-    "criteria": {
-      "has_item": "2025-02-23 00:45:22 +0800"
-    },
-    "done": true
-  },
-  "quark:get_diamond_heart": {
-    "criteria": {
-      "get_diamond_heart": "2025-02-23 01:13:58 +0800"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:guidetothenextworld": {
-    "criteria": {
-      "guidetothenextworld_0": "2025-02-22 23:04:38 +0800"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/minecart": {
-    "criteria": {
-      "has_item": "2025-02-23 00:31:21 +0800"
-    },
-    "done": true
-  },
-  "create:windmill_maxed": {
-    "criteria": {
-      "0": "2025-02-22 23:12:06 +0800"
-    },
-    "done": true
-  },
-  "hopo:minecraft/adventure/locate_mineshaft": {
-    "criteria": {
-      "locate_acacia_mineshaft": "2025-02-22 23:46:20 +0800"
-    },
-    "done": true
-  },
-  "endrem:main/cryptic_eye": {
-    "criteria": {
-      "cryptic_eye": "2025-02-22 23:25:48 +0800"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:adventure/dont_move": {
-    "criteria": {
-      "spotted_by_peeper": "2025-02-23 00:30:25 +0800"
     },
     "done": true
   },
@@ -2154,9 +2086,112 @@
     },
     "done": true
   },
-  "spelunkery:recipes/raw_gold_nugget": {
+  "create:encased_fan": {
     "criteria": {
-      "has_item": "2025-02-22 22:04:42 +0800"
+      "0": "2025-02-22 22:38:37 +0800"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-02-22 22:41:11 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_cinnabar_shard": {
+    "criteria": {
+      "has_item": "2025-02-22 22:57:25 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_cinnabar": {
+    "criteria": {
+      "has_item": "2025-02-22 22:57:29 +0800"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-02-22 23:04:38 +0800"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-02-22 23:07:19 +0800"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-02-22 23:12:06 +0800"
+    },
+    "done": true
+  },
+  "create:windmill_maxed": {
+    "criteria": {
+      "0": "2025-02-22 23:12:06 +0800"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-02-22 23:15:40 +0800"
+    },
+    "done": true
+  },
+  "endrem:main/cryptic_eye": {
+    "criteria": {
+      "cryptic_eye": "2025-02-22 23:25:48 +0800"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-02-22 23:34:17 +0800"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_acacia_mineshaft": "2025-02-22 23:46:20 +0800",
+      "locate_mud_mineshaft": "2025-02-24 01:19:04 +0800"
+    },
+    "done": false
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_acacia_mineshaft": "2025-02-22 23:46:20 +0800"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-02-23 00:22:04 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-23 00:23:46 +0800"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/dont_move": {
+    "criteria": {
+      "spotted_by_peeper": "2025-02-23 00:30:25 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/minecart": {
+    "criteria": {
+      "has_item": "2025-02-23 00:31:21 +0800"
+    },
+    "done": true
+  },
+  "oreganized:story/lead_to_dust": {
+    "criteria": {
+      "in_lead_cloud": "2025-02-23 00:32:59 +0800"
     },
     "done": true
   },
@@ -2172,39 +2207,9 @@
     },
     "done": true
   },
-  "spelunkery:recipes/rough_cinnabar": {
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_stripped_acacia_log_woodcutting": {
     "criteria": {
-      "has_item": "2025-02-22 22:57:29 +0800"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/rough_cinnabar_shard": {
-    "criteria": {
-      "has_item": "2025-02-22 22:57:25 +0800"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/rough_diamond_shard": {
-    "criteria": {
-      "has_item": "2025-02-22 21:29:05 +0800"
-    },
-    "done": true
-  },
-  "create:fan_processing": {
-    "criteria": {
-      "0": "2025-02-22 22:41:11 +0800"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_creator": {
-    "criteria": {
-      "dark_creator_0": "2025-02-23 00:53:33 +0800"
-    },
-    "done": true
-  },
-  "create:shifting_gears": {
-    "criteria": {
-      "0": "2025-02-22 23:34:17 +0800"
+      "give_recipe": "2025-02-23 00:44:40 +0800"
     },
     "done": true
   },
@@ -2214,9 +2219,395 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_magnetite_nugget": {
+    "criteria": {
+      "has_item": "2025-02-23 00:45:22 +0800"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-02-23 00:53:33 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/white_inkcap_mushroom": {
+    "criteria": {
+      "has_item": "2025-02-23 00:55:25 +0800"
+    },
+    "done": true
+  },
   "spelunkery:recipes/inkcap_mushroom": {
     "criteria": {
       "has_item": "2025-02-23 00:55:25 +0800"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-02-23 01:13:58 +0800"
+    },
+    "done": true
+  },
+  "eidolon:pewter_ingot": {
+    "criteria": {
+      "has_pewter_ingot": "2025-02-23 19:09:18 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-02-23 19:27:56 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-02-23 19:37:37 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-02-23 19:40:12 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-02-23 20:16:41 +0800"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-02-23 20:22:13 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/raw_nuggets": {
+    "criteria": {
+      "item": "2025-02-23 20:23:56 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_copper_nugget": {
+    "criteria": {
+      "has_item": "2025-02-23 20:23:56 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/create_peat_farmland": {
+    "criteria": {
+      "create_peat": "2025-02-23 20:49:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-23 22:38:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-23 22:38:28 +0800"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-23 22:38:28 +0800"
+    },
+    "done": true
+  },
+  "netherexp:nether/ssv_sub_biomes": {
+    "criteria": {
+      "netherexp:black_ice_glaciers": "2025-02-23 22:38:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-23 22:41:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-23 22:41:28 +0800"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-02-23 22:41:38 +0800"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-02-23 22:41:53 +0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-02-23 22:47:54 +0800"
+    },
+    "done": true
+  },
+  "rubinated_nether:custom/obtain_rubinated_blackstone": {
+    "criteria": {
+      "obtain_rubinated_blackstone": "2025-02-23 22:48:30 +0800"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-02-23 22:54:48 +0800"
+    },
+    "done": true
+  },
+  "netherexp:nether/rattling_remnants": {
+    "criteria": {
+      "structure": "2025-02-23 22:55:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-02-23 22:56:54 +0800"
+    },
+    "done": false
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:flooded_deltas": "2025-02-23 23:00:11 +0800"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-02-23 23:04:13 +0800"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-02-23 23:22:58 +0800"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_ore": {
+    "criteria": {
+      "cincinnasite_ore": "2025-02-23 23:25:13 +0800"
+    },
+    "done": true
+  },
+  "rubinated_nether:custom/obtain_ruby": {
+    "criteria": {
+      "obtain_ruby": "2025-02-23 23:37:20 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/enter_swamp": {
+    "criteria": {
+      "enter_swamp2": "2025-02-23 23:49:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-24 00:02:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 00:21:34 +0800"
+    },
+    "done": true
+  },
+  "rubinated_nether:recipes/misc/frosted_ice_from_spring_water_bucket": {
+    "criteria": {
+      "has_item": "2025-02-24 00:28:47 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/hellshelf": {
+    "criteria": {
+      "hellshelf": "2025-02-24 00:48:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2025-02-24 00:55:35 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/wooden_rail": {
+    "criteria": {
+      "item": "2025-02-24 01:19:32 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/iron_ores": {
+    "criteria": {
+      "has_item": "2025-02-24 01:24:58 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/every_ore": {
+    "criteria": {
+      "gold_ore": "2025-02-24 01:25:08 +0800",
+      "iron_ore": "2025-02-24 01:24:58 +0800",
+      "deepslate_gold_ore": "2025-02-24 01:25:05 +0800"
+    },
+    "done": false
+  },
+  "spelunkery:recipes/gold_ores": {
+    "criteria": {
+      "has_item": "2025-02-24 01:25:05 +0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "killed": "2025-02-24 01:41:00 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-24 01:47:19 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-24 01:48:27 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/sunken_ruin": {
+    "criteria": {
+      "ruin": "2025-02-24 01:53:37 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/lightning_bug_bottle": {
+    "criteria": {
+      "lightning_bug_bottle": "2025-02-24 01:53:59 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/bottle_o_lightning": {
+    "criteria": {
+      "lightning_bottle": "2025-02-24 01:55:08 +0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-24 02:35:13 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:airship_village": {
+    "criteria": {
+      "in_airship_village": "2025-02-24 02:58:41 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-24 02:50:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_stripped_birch_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-24 03:01:36 +0800"
     },
     "done": true
   },
