@@ -198,9 +198,11 @@
       "minecraft:lukewarm_ocean": "2025-02-17 20:47:26 +0800",
       "atmospheric:atmospheric:rainforest_basin": "2025-02-24 02:52:47 +0800",
       "minecraft:swamp": "2025-02-23 23:49:57 +0800",
+      "minecraft:cold_ocean": "2025-02-25 23:10:28 +0800",
       "minecraft:forest": "2025-02-22 18:07:15 +0800",
       "atmospheric:atmospheric:sparse_rainforest_basin": "2025-02-24 03:20:37 +0800",
       "minecraft:lush_caves": "2025-02-24 03:22:25 +0800",
+      "minecraft:deep_cold_ocean": "2025-02-25 23:11:01 +0800",
       "minecraft:desert": "2025-02-16 00:53:10 +0800",
       "atmospheric:atmospheric:scrubland": "2025-02-16 00:57:14 +0800",
       "minecraft:ocean": "2025-02-24 02:36:05 +0800",
@@ -2844,6 +2846,36 @@
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-02-25 19:56:36 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/glow_ink_sac": {
+    "criteria": {
+      "has_item": "2025-02-25 23:09:18 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/grindstone": {
+    "criteria": {
+      "item": "2025-02-25 22:32:36 +0800"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-02-25 23:12:32 +0800"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-02-25 23:12:32 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-02-25 23:28:58 +0800"
     },
     "done": true
   },
