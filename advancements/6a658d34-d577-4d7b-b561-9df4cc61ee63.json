@@ -119,6 +119,7 @@
       "redstone_caves": "2025-02-22 17:11:33 +0800",
       "grassy_beach": "2025-02-24 02:34:35 +0800",
       "rocky_meadow": "2025-02-17 20:47:47 +0800",
+      "mycotoxic_undergrowth": "2025-02-26 17:28:10 +0800",
       "tropical_river": "2025-02-16 00:04:04 +0800",
       "magnolia_highlands": "2025-02-17 20:51:24 +0800",
       "eucalyptus_forest": "2025-02-22 16:57:52 +0800",
@@ -234,13 +235,17 @@
       "abnormals_delight:cooked_rice": "2025-02-17 22:51:19 +0800",
       "potato": "2025-02-17 22:36:10 +0800",
       "abnormals_delight:chicken_soup": "2025-02-24 10:51:40 +0800",
+      "abnormals_delight:squid_ink_pasta": "2025-02-26 17:27:37 +0800",
       "abnormals_delight:cooked_chicken_cuts": "2025-02-17 17:16:56 +0800",
       "bread": "2025-02-16 00:03:56 +0800",
       "golden_apple": "2025-02-17 18:17:19 +0800",
       "melon_slice": "2025-02-17 21:55:18 +0800",
       "abnormals_delight:roast_chicken": "2025-02-18 00:46:46 +0800",
+      "abnormals_delight:cod_roll": "2025-02-26 17:24:14 +0800",
       "abnormals_delight:chicken_sandwich": "2025-02-18 00:35:00 +0800",
+      "abnormals_delight:bone_broth": "2025-02-26 17:27:09 +0800",
       "abnormals_delight:sweet_berry_cookie": "2025-02-25 15:26:31 +0800",
+      "abnormals_delight:dumplings": "2025-02-26 17:29:02 +0800",
       "cooked_salmon": "2025-02-21 22:29:12 +0800",
       "cooked_porkchop": "2025-02-22 18:36:52 +0800",
       "abnormals_delight:mushroom_rice": "2025-02-26 15:25:28 +0800",
@@ -251,6 +256,7 @@
       "glow_berries": "2025-02-23 00:33:10 +0800",
       "abnormals_delight:cabbage_rolls": "2025-02-17 21:19:10 +0800",
       "cooked_chicken": "2025-02-18 00:43:39 +0800",
+      "abnormals_delight:salmon_roll": "2025-02-26 17:26:49 +0800",
       "mushroom_stew": "2025-02-17 22:13:59 +0800",
       "chicken": "2025-02-22 18:32:19 +0800",
       "cooked_mutton": "2025-02-21 22:16:09 +0800",
@@ -260,6 +266,7 @@
       "abnormals_delight:shepherds_pie": "2025-02-18 00:17:15 +0800",
       "cooked_cod": "2025-02-24 10:39:53 +0800",
       "supplementaries:candy": "2025-02-17 23:44:21 +0800",
+      "abnormals_delight:egg_sandwich": "2025-02-26 16:32:46 +0800",
       "golden_carrot": "2025-02-16 00:53:57 +0800",
       "abnormals_delight:smoked_ham": "2025-02-24 11:35:20 +0800",
       "atmospheric:golden_dragon_fruit": "2025-02-23 18:47:19 +0800",
@@ -751,6 +758,7 @@
       "vegetable_soup": "2025-02-26 13:50:54 +0800",
       "shepherds_pie": "2025-02-18 00:17:15 +0800",
       "honey_glazed_ham": "2025-02-22 15:11:43 +0800",
+      "squid_ink_pasta": "2025-02-26 17:27:37 +0800",
       "pasta_with_meatballs": "2025-02-24 01:17:45 +0800",
       "chicken_soup": "2025-02-24 10:51:40 +0800",
       "mushroom_rice": "2025-02-26 15:25:28 +0800",
@@ -2883,13 +2891,43 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-02-26 14:49:50 +0800"
+    },
+    "done": true
+  },
   "create_enchantment_industry:recipes/printer": {
     "criteria": {
       "has_item": "2025-02-26 14:50:04 +0800"
     },
     "done": true
   },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2025-02-26 14:50:04 +0800"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-02-26 15:11:15 +0800"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-02-26 15:12:24 +0800"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-02-26 15:34:32 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta50": {
     "criteria": {
       "enchanted_item": "2025-02-26 15:34:32 +0800"
     },
@@ -2901,27 +2939,9 @@
     },
     "done": true
   },
-  "apotheosis:enchanting/quanta50": {
-    "criteria": {
-      "enchanted_item": "2025-02-26 15:34:32 +0800"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/disenchanter": {
-    "criteria": {
-      "has_item": "2025-02-26 14:50:04 +0800"
-    },
-    "done": true
-  },
   "spelunkery:recipes/nephrite": {
     "criteria": {
       "has_item": "2025-02-26 15:36:29 +0800"
-    },
-    "done": true
-  },
-  "create:deployer": {
-    "criteria": {
-      "0": "2025-02-26 15:11:15 +0800"
     },
     "done": true
   },
@@ -2931,15 +2951,29 @@
     },
     "done": true
   },
-  "create:copper_casing": {
+  "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "0": "2025-02-26 14:49:50 +0800"
+      "mycotoxic_undergrowth": "2025-02-26 17:28:10 +0800"
+    },
+    "done": false
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-02-26 17:51:02 +0800"
     },
     "done": true
   },
-  "create:precision_mechanism": {
+  "brewinandchewin:main/chef_of_the_ages": {
     "criteria": {
-      "0": "2025-02-26 15:12:24 +0800"
+      "brewinandchewin:sweet_berry_jam": "2025-02-26 17:24:04 +0800",
+      "brewinandchewin:apple_jelly": "2025-02-26 17:19:08 +0800",
+      "brewinandchewin:glow_berry_marmalade": "2025-02-26 17:21:49 +0800"
+    },
+    "done": false
+  },
+  "sedparties:bettertogether": {
+    "criteria": {
+      "bettertogether": "2025-02-26 16:03:34 +0800"
     },
     "done": true
   },
