@@ -3388,33 +3388,15 @@
     },
     "done": true
   },
-  "spelunkery:recipes/phosphor_fungus": {
-    "criteria": {
-      "has_item": "2025-02-28 02:18:37 +0800"
-    },
-    "done": true
-  },
-  "ars_nouveau:imbuement_chamber": {
-    "criteria": {
-      "has_imbuement_chamber": "2025-02-28 00:59:13 +0800"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:cultural_attribute": {
-    "criteria": {
-      "cultural_attribute_0": "2025-02-28 02:22:56 +0800"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/tame_cockatrice": {
-    "criteria": {
-      "tame_rat": "2025-02-28 01:09:55 +0800"
-    },
-    "done": true
-  },
   "apotheosis:enchanting/60ench": {
     "criteria": {
       "enchanted_item": "2025-02-28 00:05:40 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-02-28 00:05:41 +0800"
     },
     "done": true
   },
@@ -3424,9 +3406,39 @@
     },
     "done": true
   },
-  "apotheosis:enchanting/deepshelf": {
+  "ars_nouveau:imbuement_chamber": {
     "criteria": {
-      "deepshelf": "2025-02-28 00:05:41 +0800"
+      "has_imbuement_chamber": "2025-02-28 00:59:13 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-02-28 01:09:55 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/phosphor_fungus": {
+    "criteria": {
+      "has_item": "2025-02-28 02:18:37 +0800"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:cultural_attribute": {
+    "criteria": {
+      "cultural_attribute_0": "2025-02-28 02:22:56 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/diamond_grindstone": {
+    "criteria": {
+      "item": "2025-02-28 03:37:21 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:tavern_village": {
+    "criteria": {
+      "in_tavern_village": "2025-02-28 04:41:24 +0800"
     },
     "done": true
   },
