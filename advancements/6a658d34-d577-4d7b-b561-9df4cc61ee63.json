@@ -263,6 +263,7 @@
       "abnormals_delight:honey_glazed_ham": "2025-02-22 15:11:43 +0800",
       "abnormals_delight:vegetable_soup": "2025-02-26 13:50:54 +0800",
       "abnormals_delight:hamburger": "2025-02-17 17:30:48 +0800",
+      "caverns_and_chasms:bejeweled_apple": "2025-02-28 01:28:12 +0800",
       "suspicious_stew": "2025-02-16 00:16:14 +0800",
       "cookie": "2025-02-17 23:35:27 +0800",
       "abnormals_delight:salmon_slice": "2025-02-27 19:16:27 +0800",
@@ -275,9 +276,11 @@
       "abnormals_delight:cooked_chicken_cuts": "2025-02-17 17:16:56 +0800",
       "bread": "2025-02-16 00:03:56 +0800",
       "golden_apple": "2025-02-17 18:17:19 +0800",
+      "rotten_flesh": "2025-02-28 02:16:43 +0800",
       "melon_slice": "2025-02-17 21:55:18 +0800",
       "abnormals_delight:roast_chicken": "2025-02-18 00:46:46 +0800",
       "abnormals_delight:cod_roll": "2025-02-26 17:24:14 +0800",
+      "abnormals_delight:steak_and_potatoes": "2025-02-27 23:35:32 +0800",
       "abnormals_delight:chicken_sandwich": "2025-02-18 00:35:00 +0800",
       "abnormals_delight:bone_broth": "2025-02-26 17:27:09 +0800",
       "abnormals_delight:sweet_berry_cookie": "2025-02-25 15:26:31 +0800",
@@ -599,6 +602,7 @@
       "minecraft:creeper": "2025-02-16 00:53:47 +0800",
       "minecraft:slime": "2025-02-23 00:37:32 +0800",
       "minecraft:evoker": "2025-02-26 22:22:12 +0800",
+      "caverns_and_chasms:peeper": "2025-02-28 02:21:48 +0800",
       "quark:forgotten": "2025-02-18 00:10:59 +0800",
       "minecraft:phantom": "2025-02-22 18:09:37 +0800",
       "minecraft:zombified_piglin": "2025-02-23 23:04:26 +0800",
@@ -805,6 +809,7 @@
       "honey_glazed_ham": "2025-02-22 15:11:43 +0800",
       "squid_ink_pasta": "2025-02-26 17:27:37 +0800",
       "pasta_with_meatballs": "2025-02-24 01:17:45 +0800",
+      "steak_and_potatoes": "2025-02-27 23:35:32 +0800",
       "chicken_soup": "2025-02-24 10:51:40 +0800",
       "mushroom_rice": "2025-02-26 15:25:28 +0800",
       "fish_stew": "2025-02-17 18:07:24 +0800",
@@ -1497,7 +1502,8 @@
     "criteria": {
       "orange": "2025-02-18 00:32:48 +0800",
       "white": "2025-02-17 22:03:23 +0800",
-      "violet": "2025-02-22 17:32:55 +0800"
+      "violet": "2025-02-22 17:32:55 +0800",
+      "yellow": "2025-02-28 02:36:56 +0800"
     },
     "done": false
   },
@@ -1647,6 +1653,7 @@
   },
   "spelunkery:spelunkery/every_fungus": {
     "criteria": {
+      "phosphor_fungus": "2025-02-28 02:18:37 +0800",
       "mushgloom": "2025-02-22 15:46:27 +0800",
       "white_inkcap_mushroom": "2025-02-23 00:55:25 +0800",
       "brown_mushroom": "2025-02-18 00:08:45 +0800",
@@ -2863,6 +2870,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:chicken": "2025-02-28 00:45:55 +0800",
       "minecraft:rabbit": "2025-02-25 15:31:36 +0800"
     },
     "done": false
@@ -3057,6 +3065,7 @@
   },
   "born_in_chaos_v1:hatman": {
     "criteria": {
+      "hatman_2": "2025-02-28 02:22:56 +0800",
       "hatman_1": "2025-02-26 20:14:35 +0800"
     },
     "done": false
@@ -3253,69 +3262,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_candy_cavity": {
-    "criteria": {
-      "discover": "2025-02-27 20:10:50 +0800"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/radiant_essence": {
-    "criteria": {
-      "mussel": "2025-02-27 20:54:19 +0800"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_caniac": {
-    "criteria": {
-      "killed": "2025-02-27 20:12:16 +0800"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/frostmint_spear": {
-    "criteria": {
-      "deep_sea_sushi_roll": "2025-02-27 20:57:13 +0800"
-    },
-    "done": true
-  },
-  "eidolon:soul_shard": {
-    "criteria": {
-      "has_soul_shard": "2025-02-27 17:55:50 +0800"
-    },
-    "done": true
-  },
   "apotheosis:enchanting/arcana100": {
     "criteria": {
       "enchanted_item": "2025-02-27 15:38:33 +0800"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/eat_candy_cane": {
-    "criteria": {
-      "eat_candy_cane": "2025-02-27 21:15:41 +0800"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
-    "criteria": {
-      "cave_book": "2025-02-27 20:27:14 +0800"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gumbeeper": {
-    "criteria": {
-      "killed": "2025-02-27 20:20:05 +0800"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_villager": {
-    "criteria": {
-      "requirement": "2025-02-27 21:35:43 +0800"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/licowitch_tower": {
-    "criteria": {
-      "licowitch_tower": "2025-02-27 20:48:58 +0800"
     },
     "done": true
   },
@@ -3325,15 +3274,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/fish_bones": {
+  "eidolon:soul_shard": {
     "criteria": {
-      "sopa_de_macaco": "2025-02-27 18:11:47 +0800"
+      "has_soul_shard": "2025-02-27 17:55:50 +0800"
     },
     "done": true
   },
-  "spelunkery:recipes/rough_emerald_block": {
+  "alexsmobs:alexsmobs/fish_bones": {
     "criteria": {
-      "has_item": "2025-02-27 19:45:41 +0800"
+      "sopa_de_macaco": "2025-02-27 18:11:47 +0800"
     },
     "done": true
   },
@@ -3343,21 +3292,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/gelatin": {
-    "criteria": {
-      "gelatin": "2025-02-27 20:20:59 +0800"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/caramel": {
-    "criteria": {
-      "mussel": "2025-02-27 20:11:26 +0800"
-    },
-    "done": true
-  },
   "biomemakeover:biomemakeover/illunite_shard": {
     "criteria": {
       "get_stew": "2025-02-27 18:51:00 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_emerald_block": {
+    "criteria": {
+      "has_item": "2025-02-27 19:45:41 +0800"
     },
     "done": true
   },
@@ -3367,15 +3310,123 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/conversion_crucible": {
+  "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
-      "mussel": "2025-02-27 20:53:25 +0800"
+      "discover": "2025-02-27 20:10:50 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-02-27 20:11:26 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-02-27 20:12:16 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-02-27 20:20:05 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-02-27 20:20:59 +0800"
     },
     "done": true
   },
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
       "gingerbread_town": "2025-02-27 20:24:55 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-02-27 20:27:14 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-02-27 20:48:58 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/conversion_crucible": {
+    "criteria": {
+      "mussel": "2025-02-27 20:53:25 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radiant_essence": {
+    "criteria": {
+      "mussel": "2025-02-27 20:54:19 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/frostmint_spear": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2025-02-27 20:57:13 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2025-02-27 21:15:41 +0800"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_villager": {
+    "criteria": {
+      "requirement": "2025-02-27 21:35:43 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/phosphor_fungus": {
+    "criteria": {
+      "has_item": "2025-02-28 02:18:37 +0800"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-02-28 00:59:13 +0800"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:cultural_attribute": {
+    "criteria": {
+      "cultural_attribute_0": "2025-02-28 02:22:56 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-02-28 01:09:55 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/60ench": {
+    "criteria": {
+      "enchanted_item": "2025-02-28 00:05:40 +0800"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-02-28 00:41:49 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-02-28 00:05:41 +0800"
     },
     "done": true
   },
