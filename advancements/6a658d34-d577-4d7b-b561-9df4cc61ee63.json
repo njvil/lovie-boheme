@@ -110,10 +110,13 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-02-28 22:38:10 +0800",
+      "shrubland": "2025-02-28 22:46:09 +0800",
       "dry_bushland": "2025-02-17 20:27:39 +0800",
       "fen": "2025-02-23 23:49:36 +0800",
       "sparse_rainforest": "2025-02-15 23:57:01 +0800",
       "bayou": "2025-02-24 01:23:11 +0800",
+      "autumnal_maple_forest": "2025-02-28 22:38:14 +0800",
       "prismachasm": "2025-02-22 17:11:36 +0800",
       "willow_forest": "2025-02-27 19:12:07 +0800",
       "rocky_reef": "2025-02-16 00:40:14 +0800",
@@ -123,7 +126,9 @@
       "rocky_meadow": "2025-02-17 20:47:47 +0800",
       "blackwood_taiga": "2025-02-27 18:49:07 +0800",
       "mycotoxic_undergrowth": "2025-02-26 17:28:10 +0800",
+      "flower_fields": "2025-02-28 22:40:59 +0800",
       "highland_fields": "2025-02-27 19:04:04 +0800",
+      "maple_forest": "2025-02-28 22:37:49 +0800",
       "tropical_river": "2025-02-16 00:04:04 +0800",
       "magnolia_highlands": "2025-02-17 20:51:24 +0800",
       "eucalyptus_forest": "2025-02-22 16:57:52 +0800",
@@ -132,10 +137,13 @@
       "mountains": "2025-02-27 19:25:51 +0800",
       "sparse_redwoods": "2025-02-27 18:52:40 +0800",
       "deciduous_forest": "2025-02-18 00:07:46 +0800",
+      "boreal_forest": "2025-02-28 22:29:13 +0800",
       "chalk_cliffs": "2025-02-17 20:47:38 +0800",
       "bamboo_forest": "2025-02-27 18:47:22 +0800",
       "saguaro_desert": "2025-02-21 22:18:38 +0800",
+      "temperate_grove": "2025-02-28 22:26:57 +0800",
       "baobab_savanna": "2025-02-18 00:00:43 +0800",
+      "prairie": "2025-02-28 23:06:47 +0800",
       "gravel_beach": "2025-02-23 23:48:04 +0800",
       "redwoods": "2025-02-22 18:47:02 +0800",
       "rainforest": "2025-02-16 00:06:38 +0800",
@@ -146,16 +154,21 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-02-28 22:38:10 +0800",
+      "shrubland": "2025-02-28 22:46:09 +0800",
       "dry_bushland": "2025-02-17 20:27:39 +0800",
       "fen": "2025-02-23 23:49:36 +0800",
       "sparse_rainforest": "2025-02-15 23:57:01 +0800",
       "bayou": "2025-02-24 01:23:11 +0800",
+      "autumnal_maple_forest": "2025-02-28 22:38:14 +0800",
       "willow_forest": "2025-02-27 19:12:07 +0800",
       "rocky_reef": "2025-02-16 00:40:14 +0800",
       "grassy_beach": "2025-02-24 02:34:35 +0800",
       "rocky_meadow": "2025-02-17 20:47:47 +0800",
       "blackwood_taiga": "2025-02-27 18:49:07 +0800",
+      "flower_fields": "2025-02-28 22:40:59 +0800",
       "highland_fields": "2025-02-27 19:04:04 +0800",
+      "maple_forest": "2025-02-28 22:37:49 +0800",
       "tropical_river": "2025-02-16 00:04:04 +0800",
       "magnolia_highlands": "2025-02-17 20:51:24 +0800",
       "eucalyptus_forest": "2025-02-22 16:57:52 +0800",
@@ -164,10 +177,13 @@
       "mountains": "2025-02-27 19:25:51 +0800",
       "sparse_redwoods": "2025-02-27 18:52:40 +0800",
       "deciduous_forest": "2025-02-18 00:07:46 +0800",
+      "boreal_forest": "2025-02-28 22:29:13 +0800",
       "chalk_cliffs": "2025-02-17 20:47:38 +0800",
       "bamboo_forest": "2025-02-27 18:47:22 +0800",
       "saguaro_desert": "2025-02-21 22:18:38 +0800",
+      "temperate_grove": "2025-02-28 22:26:57 +0800",
       "baobab_savanna": "2025-02-18 00:00:43 +0800",
+      "prairie": "2025-02-28 23:06:47 +0800",
       "gravel_beach": "2025-02-23 23:48:04 +0800",
       "redwoods": "2025-02-22 18:47:02 +0800",
       "rainforest": "2025-02-16 00:06:38 +0800",
@@ -209,7 +225,9 @@
       "minecraft:snowy_slopes": "2025-02-27 19:26:05 +0800",
       "minecraft:deep_ocean": "2025-02-24 02:44:23 +0800",
       "minecraft:birch_forest": "2025-02-27 19:21:15 +0800",
+      "minecraft:windswept_hills": "2025-02-28 22:40:09 +0800",
       "minecraft:wooded_badlands": "2025-02-25 20:22:08 +0800",
+      "atmospheric:atmospheric:rocky_dunes": "2025-02-28 16:58:05 +0800",
       "minecraft:badlands": "2025-02-22 17:27:58 +0800",
       "minecraft:savanna_plateau": "2025-02-22 17:28:34 +0800",
       "minecraft:beach": "2025-02-16 00:03:36 +0800",
@@ -221,8 +239,10 @@
       "minecraft:lukewarm_ocean": "2025-02-17 20:47:26 +0800",
       "atmospheric:atmospheric:laurel_forest": "2025-02-27 19:23:23 +0800",
       "minecraft:stony_shore": "2025-02-27 20:05:05 +0800",
+      "minecraft:snowy_plains": "2025-02-28 22:14:31 +0800",
       "minecraft:dripstone_caves": "2025-02-27 18:55:21 +0800",
       "atmospheric:atmospheric:rainforest_basin": "2025-02-24 02:52:47 +0800",
+      "atmospheric:atmospheric:rainforest": "2025-02-28 22:02:18 +0800",
       "minecraft:swamp": "2025-02-23 23:49:57 +0800",
       "minecraft:grove": "2025-02-27 18:54:06 +0800",
       "minecraft:jagged_peaks": "2025-02-27 18:53:33 +0800",
@@ -232,19 +252,25 @@
       "minecraft:lush_caves": "2025-02-24 03:22:25 +0800",
       "minecraft:deep_cold_ocean": "2025-02-25 23:11:01 +0800",
       "environmental:environmental:pine_slopes": "2025-02-27 19:26:07 +0800",
+      "autumnity:autumnity:maple_forest": "2025-02-28 22:13:01 +0800",
       "minecraft:desert": "2025-02-16 00:53:10 +0800",
       "atmospheric:atmospheric:scrubland": "2025-02-16 00:57:14 +0800",
       "minecraft:ocean": "2025-02-24 02:36:05 +0800",
       "minecraft:jungle": "2025-02-26 22:04:08 +0800",
+      "minecraft:old_growth_spruce_taiga": "2025-02-28 22:59:00 +0800",
       "minecraft:warm_ocean": "2025-02-17 18:04:54 +0800",
       "minecraft:deep_lukewarm_ocean": "2025-02-17 23:49:10 +0800",
       "minecraft:flower_forest": "2025-02-27 21:05:43 +0800",
+      "environmental:environmental:marsh": "2025-02-28 22:35:07 +0800",
       "minecraft:frozen_peaks": "2025-02-27 19:25:50 +0800",
+      "minecraft:old_growth_birch_forest": "2025-02-28 22:12:27 +0800",
       "atmospheric:atmospheric:dunes": "2025-02-22 16:44:14 +0800",
       "minecraft:deep_dark": "2025-02-27 20:03:41 +0800",
       "minecraft:meadow": "2025-02-27 18:54:13 +0800",
+      "minecraft:windswept_gravelly_hills": "2025-02-28 22:40:15 +0800",
       "minecraft:savanna": "2025-02-22 17:51:35 +0800",
-      "minecraft:plains": "2025-02-22 17:53:06 +0800"
+      "minecraft:plains": "2025-02-22 17:53:06 +0800",
+      "autumnity:autumnity:pumpkin_fields": "2025-02-28 22:13:03 +0800"
     },
     "done": false
   },
@@ -301,6 +327,7 @@
       "abnormals_delight:mutton_chops": "2025-02-27 19:13:06 +0800",
       "mushroom_stew": "2025-02-17 22:13:59 +0800",
       "chicken": "2025-02-22 18:32:19 +0800",
+      "environmental:cooked_venison": "2025-02-28 14:28:16 +0800",
       "cooked_mutton": "2025-02-21 22:16:09 +0800",
       "abnormals_delight:beef_stew": "2025-02-16 01:19:10 +0800",
       "abnormals_delight:melon_popsicle": "2025-02-22 17:17:29 +0800",
@@ -600,6 +627,7 @@
       "minecraft:spider": "2025-02-16 00:17:16 +0800",
       "minecraft:piglin_brute": "2025-02-23 22:41:16 +0800",
       "minecraft:creeper": "2025-02-16 00:53:47 +0800",
+      "minecraft:wither": "2025-02-28 18:03:13 +0800",
       "minecraft:slime": "2025-02-23 00:37:32 +0800",
       "minecraft:evoker": "2025-02-26 22:22:12 +0800",
       "caverns_and_chasms:peeper": "2025-02-28 02:21:48 +0800",
@@ -1658,7 +1686,10 @@
       "white_inkcap_mushroom": "2025-02-23 00:55:25 +0800",
       "brown_mushroom": "2025-02-18 00:08:45 +0800",
       "red_mushroom": "2025-02-24 02:13:05 +0800",
-      "inkcap_mushroom": "2025-02-23 00:55:25 +0800"
+      "button_mushroom": "2025-02-28 19:44:26 +0800",
+      "crimini": "2025-02-28 19:44:28 +0800",
+      "inkcap_mushroom": "2025-02-23 00:55:25 +0800",
+      "portabella": "2025-02-28 19:44:25 +0800"
     },
     "done": false
   },
@@ -2721,7 +2752,10 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-02-27 14:34:57 +0800",
+      "onion": "2025-02-28 15:10:35 +0800",
+      "tomato": "2025-02-28 15:10:28 +0800",
       "beetroot": "2025-02-27 14:34:19 +0800",
+      "potato": "2025-02-28 16:23:42 +0800",
       "wheat": "2025-02-24 13:08:32 +0800",
       "carrot": "2025-02-24 13:13:27 +0800"
     },
@@ -3439,6 +3473,192 @@
   "integrated_villages:tavern_village": {
     "criteria": {
       "in_tavern_village": "2025-02-28 04:41:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-02-28 18:08:58 +0800"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-02-28 22:43:50 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:clockwork_village": {
+    "criteria": {
+      "in_clockwork_village": "2025-02-28 23:00:03 +0800"
+    },
+    "done": true
+  },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2025-02-28 17:35:25 +0800"
+    },
+    "done": true
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-02-28 15:51:47 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:marketstead_village": {
+    "criteria": {
+      "in_marketstead_village": "2025-02-28 23:01:13 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/echo_shard": {
+    "criteria": {
+      "has_item": "2025-02-28 20:07:49 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-28 21:59:14 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:mediterranean_village": {
+    "criteria": {
+      "in_mediterranean_village": "2025-02-28 23:04:46 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2025-02-28 21:47:25 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:kutcha_village": {
+    "criteria": {
+      "in_kutcha_village": "2025-02-28 16:55:06 +0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-02-28 19:30:48 +0800"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-02-28 19:24:09 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/witch_quest": {
+    "criteria": {
+      "do_trade": "2025-02-28 19:11:17 +0800"
+    },
+    "done": true
+  },
+  "create:backtank": {
+    "criteria": {
+      "0": "2025-02-28 16:05:21 +0800"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-02-28 18:03:15 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:pirate_village": {
+    "criteria": {
+      "in_pirate_village": "2025-02-28 23:06:24 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/portabella": {
+    "criteria": {
+      "has_item": "2025-02-28 19:44:25 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/carved_nephrite": {
+    "criteria": {
+      "item": "2025-02-28 15:55:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-28 20:22:34 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:minka_village": {
+    "criteria": {
+      "in_minka_village": "2025-02-28 22:49:45 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sundae": {
+    "criteria": {
+      "mussel": "2025-02-28 19:01:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-28 17:30:08 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:mossy_mounds": {
+    "criteria": {
+      "in_mossy_mounds": "2025-02-28 22:13:56 +0800"
+    },
+    "done": true
+  },
+  "ars_nouveau:poof_mob": {
+    "criteria": {
+      "poof_mob": "2025-02-28 22:23:27 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-02-28 19:37:04 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/sculkshelf": {
+    "criteria": {
+      "echoing": "2025-02-28 21:33:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-28 18:02:35 +0800"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "pink_bioshroom": "2025-02-28 19:04:35 +0800"
+    },
+    "done": false
+  },
+  "integrated_villages:cabin_village": {
+    "criteria": {
+      "in_cabin_village": "2025-02-28 22:58:56 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/mushroom_disc": {
+    "criteria": {
+      "get_disc": "2025-02-28 18:44:58 +0800"
     },
     "done": true
   },
