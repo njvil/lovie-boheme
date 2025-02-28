@@ -3663,9 +3663,33 @@
     },
     "done": true
   },
+  "ars_nouveau:poof_mob": {
+    "criteria": {
+      "poof_mob": "2025-02-28 22:23:27 +0800"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-02-28 22:40:45 +0800"
+    },
+    "done": true
+  },
   "idas:pillager_fortress": {
     "criteria": {
       "in_pillager_fortress": "2025-02-28 22:43:55 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:minka_village": {
+    "criteria": {
+      "in_minka_village": "2025-02-28 22:49:46 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:cabin_village": {
+    "criteria": {
+      "in_cabin_village": "2025-02-28 22:58:58 +0800"
     },
     "done": true
   },
@@ -3693,27 +3717,93 @@
     },
     "done": true
   },
-  "integrated_villages:minka_village": {
+  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_stripped_mangrove_wood_woodcutting": {
     "criteria": {
-      "in_minka_village": "2025-02-28 22:49:46 +0800"
+      "give_recipe": "2025-03-01 00:10:04 +0800"
     },
     "done": true
   },
-  "born_in_chaos_v1:exorcism": {
+  "minecraft:recipes/woodcutting/mangrove/mangrove_slab_from_mangrove_planks_woodcutting": {
     "criteria": {
-      "exorcism_0": "2025-02-28 22:40:45 +0800"
+      "give_recipe": "2025-03-01 00:10:05 +0800"
     },
     "done": true
   },
-  "ars_nouveau:poof_mob": {
+  "minecraft:recipes/woodcutting/mangrove/mangrove_button_from_mangrove_planks_woodcutting": {
     "criteria": {
-      "poof_mob": "2025-02-28 22:23:27 +0800"
+      "give_recipe": "2025-03-01 00:10:05 +0800"
     },
     "done": true
   },
-  "integrated_villages:cabin_village": {
+  "minecraft:recipes/woodcutting/mangrove/barrel_from_mangrove_planks_woodcutting": {
     "criteria": {
-      "in_cabin_village": "2025-02-28 22:58:58 +0800"
+      "give_recipe": "2025-03-01 00:10:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_gate_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 00:10:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 00:10:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_trapdoor_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 00:10:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/chest_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 00:10:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_door_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 00:10:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_boat_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 00:10:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 00:10:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_pressure_plate_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 00:10:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/crafting_table_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 00:10:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_chest_boat_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 00:10:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_stairs_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 00:10:05 +0800"
     },
     "done": true
   },
