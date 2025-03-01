@@ -3807,5 +3807,127 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 05:24:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-03-01 05:24:17 +0800",
+      "has_block": "2025-03-01 05:24:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_slab_from_mangrove_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-03-01 05:45:48 +0800",
+      "has_block": "2025-03-01 05:45:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 05:45:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/crafting_table_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_boat_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_chest_boat_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_trapdoor_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_pressure_plate_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_stairs_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_button_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/chest_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_gate_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/barrel_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_door_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:45:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_wood_from_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-01 07:45:19 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
