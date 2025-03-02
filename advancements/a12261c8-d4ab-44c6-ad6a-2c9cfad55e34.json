@@ -144,6 +144,7 @@
       "temperate_grove": "2025-02-28 23:10:14 +0800",
       "baobab_savanna": "2025-02-18 00:00:44 +0800",
       "prairie": "2025-02-28 23:06:57 +0800",
+      "grassland": "2025-03-02 22:10:54 +0800",
       "gravel_beach": "2025-02-23 23:48:03 +0800",
       "redwoods": "2025-02-22 18:47:04 +0800",
       "rainforest": "2025-02-16 00:08:03 +0800",
@@ -185,6 +186,7 @@
       "temperate_grove": "2025-02-28 23:10:14 +0800",
       "baobab_savanna": "2025-02-18 00:00:44 +0800",
       "prairie": "2025-02-28 23:06:57 +0800",
+      "grassland": "2025-03-02 22:10:54 +0800",
       "gravel_beach": "2025-02-23 23:48:03 +0800",
       "redwoods": "2025-02-22 18:47:04 +0800",
       "rainforest": "2025-02-16 00:08:03 +0800",
@@ -220,6 +222,7 @@
       "minecraft:windswept_hills": "2025-02-28 22:40:18 +0800",
       "minecraft:wooded_badlands": "2025-02-25 20:21:58 +0800",
       "minecraft:bamboo_jungle": "2025-02-27 21:21:22 +0800",
+      "atmospheric:atmospheric:rocky_dunes": "2025-03-02 22:12:12 +0800",
       "minecraft:badlands": "2025-02-22 17:28:06 +0800",
       "minecraft:savanna_plateau": "2025-02-22 17:28:44 +0800",
       "minecraft:beach": "2025-02-16 00:03:49 +0800",
@@ -367,9 +370,11 @@
       "minecraft:blaze": "2025-02-23 23:04:33 +0800",
       "minecraft:skeleton": "2025-02-16 00:21:55 +0800",
       "savage_and_ravage:creepie": "2025-02-22 18:27:53 +0800",
+      "minecraft:elder_guardian": "2025-03-02 23:07:19 +0800",
       "minecraft:ravager": "2025-02-22 18:35:47 +0800",
       "savage_and_ravage:executioner": "2025-02-22 18:34:02 +0800",
       "minecraft:hoglin": "2025-02-23 22:42:39 +0800",
+      "minecraft:guardian": "2025-03-02 23:07:36 +0800",
       "minecraft:vindicator": "2025-02-22 18:27:14 +0800",
       "minecraft:magma_cube": "2025-02-23 23:07:07 +0800",
       "minecraft:spider": "2025-02-16 00:32:43 +0800",
@@ -3926,6 +3931,48 @@
   "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_wood_from_dark_oak_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-01 07:45:19 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2025-03-02 22:21:03 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/cinnabar": {
+    "criteria": {
+      "has_item": "2025-03-02 22:44:00 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:kutcha_village": {
+    "criteria": {
+      "in_kutcha_village": "2025-03-02 22:09:57 +0800"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-03-02 22:43:59 +0800"
+    },
+    "done": true
+  },
+  "idas:fishermans_lodge": {
+    "criteria": {
+      "in_fishermans_lodge": "2025-03-02 22:06:53 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/netherite_ingot": {
+    "criteria": {
+      "has_item": "2025-03-02 22:44:00 +0800"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2025-03-02 21:50:38 +0800"
     },
     "done": true
   },
