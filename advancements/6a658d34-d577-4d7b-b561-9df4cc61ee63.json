@@ -3476,111 +3476,9 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2025-02-28 18:08:58 +0800"
-    },
-    "done": true
-  },
-  "idas:pillager_fortress": {
-    "criteria": {
-      "in_pillager_fortress": "2025-02-28 22:43:50 +0800"
-    },
-    "done": true
-  },
-  "integrated_villages:clockwork_village": {
-    "criteria": {
-      "in_clockwork_village": "2025-02-28 23:00:03 +0800"
-    },
-    "done": true
-  },
-  "netherexp:nether/gravedigger": {
-    "criteria": {
-      "has_item": "2025-02-28 17:35:25 +0800"
-    },
-    "done": true
-  },
   "netherexp:nether/non_renewable_yeah_right": {
     "criteria": {
       "killed_entity": "2025-02-28 15:51:47 +0800"
-    },
-    "done": true
-  },
-  "integrated_villages:marketstead_village": {
-    "criteria": {
-      "in_marketstead_village": "2025-02-28 23:01:13 +0800"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/echo_shard": {
-    "criteria": {
-      "has_item": "2025-02-28 20:07:49 +0800"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2025-02-28 21:59:14 +0800"
-    },
-    "done": true
-  },
-  "integrated_villages:mediterranean_village": {
-    "criteria": {
-      "in_mediterranean_village": "2025-02-28 23:04:46 +0800"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/80ench": {
-    "criteria": {
-      "enchanted_item": "2025-02-28 21:47:25 +0800"
-    },
-    "done": true
-  },
-  "integrated_villages:kutcha_village": {
-    "criteria": {
-      "in_kutcha_village": "2025-02-28 16:55:06 +0800"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/maraca": {
-    "criteria": {
-      "maraca": "2025-02-28 19:30:48 +0800"
-    },
-    "done": true
-  },
-  "create:mechanical_crafter": {
-    "criteria": {
-      "0": "2025-02-28 19:24:09 +0800"
-    },
-    "done": true
-  },
-  "biomemakeover:biomemakeover/witch_quest": {
-    "criteria": {
-      "do_trade": "2025-02-28 19:11:17 +0800"
-    },
-    "done": true
-  },
-  "create:backtank": {
-    "criteria": {
-      "0": "2025-02-28 16:05:21 +0800"
-    },
-    "done": true
-  },
-  "endrem:main/wither_eye": {
-    "criteria": {
-      "wither_eye": "2025-02-28 18:03:15 +0800"
-    },
-    "done": true
-  },
-  "integrated_villages:pirate_village": {
-    "criteria": {
-      "in_pirate_village": "2025-02-28 23:06:24 +0800"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/portabella": {
-    "criteria": {
-      "has_item": "2025-02-28 19:44:25 +0800"
     },
     "done": true
   },
@@ -3590,15 +3488,51 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+  "create:backtank": {
     "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-02-28 20:22:34 +0800"
+      "0": "2025-02-28 16:05:21 +0800"
     },
     "done": true
   },
-  "integrated_villages:minka_village": {
+  "integrated_villages:kutcha_village": {
     "criteria": {
-      "in_minka_village": "2025-02-28 22:49:45 +0800"
+      "in_kutcha_village": "2025-02-28 16:55:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-28 17:30:08 +0800"
+    },
+    "done": true
+  },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2025-02-28 17:35:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-28 18:02:35 +0800"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-02-28 18:03:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-02-28 18:08:58 +0800"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/mushroom_disc": {
+    "criteria": {
+      "get_disc": "2025-02-28 18:44:58 +0800"
     },
     "done": true
   },
@@ -3608,9 +3542,69 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "regions_unexplored:mycologist": {
     "criteria": {
-      "wither_skull": "2025-02-28 17:30:08 +0800"
+      "pink_bioshroom": "2025-02-28 19:04:35 +0800"
+    },
+    "done": false
+  },
+  "biomemakeover:biomemakeover/witch_quest": {
+    "criteria": {
+      "do_trade": "2025-02-28 19:11:17 +0800"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-02-28 19:24:09 +0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-02-28 19:30:48 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-02-28 19:37:04 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/portabella": {
+    "criteria": {
+      "has_item": "2025-02-28 19:44:25 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/echo_shard": {
+    "criteria": {
+      "has_item": "2025-02-28 20:07:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-28 20:22:34 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/sculkshelf": {
+    "criteria": {
+      "echoing": "2025-02-28 21:33:59 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2025-02-28 21:47:25 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-28 21:59:14 +0800"
     },
     "done": true
   },
@@ -3626,29 +3620,17 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_forge_brick": {
+  "idas:pillager_fortress": {
     "criteria": {
-      "forge": "2025-02-28 19:37:04 +0800"
+      "in_pillager_fortress": "2025-02-28 22:43:50 +0800"
     },
     "done": true
   },
-  "apotheosis:enchanting/sculkshelf": {
+  "integrated_villages:minka_village": {
     "criteria": {
-      "echoing": "2025-02-28 21:33:59 +0800"
+      "in_minka_village": "2025-02-28 22:49:45 +0800"
     },
     "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-02-28 18:02:35 +0800"
-    },
-    "done": true
-  },
-  "regions_unexplored:mycologist": {
-    "criteria": {
-      "pink_bioshroom": "2025-02-28 19:04:35 +0800"
-    },
-    "done": false
   },
   "integrated_villages:cabin_village": {
     "criteria": {
@@ -3656,9 +3638,27 @@
     },
     "done": true
   },
-  "biomemakeover:biomemakeover/mushroom_disc": {
+  "integrated_villages:clockwork_village": {
     "criteria": {
-      "get_disc": "2025-02-28 18:44:58 +0800"
+      "in_clockwork_village": "2025-02-28 23:00:03 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:marketstead_village": {
+    "criteria": {
+      "in_marketstead_village": "2025-02-28 23:01:13 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:mediterranean_village": {
+    "criteria": {
+      "in_mediterranean_village": "2025-02-28 23:04:46 +0800"
+    },
+    "done": true
+  },
+  "integrated_villages:pirate_village": {
+    "criteria": {
+      "in_pirate_village": "2025-02-28 23:06:24 +0800"
     },
     "done": true
   },
