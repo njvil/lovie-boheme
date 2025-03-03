@@ -317,6 +317,7 @@
       "abnormals_delight:cod_roll": "2025-02-27 16:30:41 +0800",
       "abnormals_delight:chicken_sandwich": "2025-02-18 00:33:42 +0800",
       "abnormals_delight:bone_broth": "2025-02-27 16:35:56 +0800",
+      "abnormals_delight:sweet_berry_cookie": "2025-03-03 13:50:12 +0800",
       "abnormals_delight:dumplings": "2025-02-27 16:33:36 +0800",
       "cooked_porkchop": "2025-02-17 20:16:38 +0800",
       "abnormals_delight:mushroom_rice": "2025-02-27 16:32:00 +0800",
@@ -362,6 +363,7 @@
   },
   "betterarcheology:all_fossils_found": {
     "criteria": {
+      "betterarcheology:sheep_fossil_body": "2025-03-03 15:01:08 +0800",
       "betterarcheology:villager_fossil_head": "2025-02-21 22:08:36 +0800",
       "betterarcheology:creeper_fossil_head": "2025-02-16 00:10:47 +0800",
       "betterarcheology:guardian_fossil_head": "2025-03-03 01:15:23 +0800"
@@ -4191,6 +4193,42 @@
   "minecraft:recipes/woodcutting/jungle/crafting_table_from_jungle_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-03 01:38:42 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/sculkshelf": {
+    "criteria": {
+      "echoing": "2025-03-03 10:59:00 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-03-03 11:11:51 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-03-03 13:37:31 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-03-03 14:16:59 +0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-03-03 14:30:30 +0800"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-03-03 14:38:24 +0800"
     },
     "done": true
   },
