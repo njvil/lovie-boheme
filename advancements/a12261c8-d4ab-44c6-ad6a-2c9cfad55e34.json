@@ -4234,6 +4234,24 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-03-04 03:54:49 +0800"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/consume_sea_stew": {
+    "criteria": {
+      "sea_stew": "2025-03-04 04:46:49 +0800"
+    },
+    "done": true
+  },
+  "createmetallurgy:casting_blocks": {
+    "criteria": {
+      "have_casting_blocks": "2025-03-04 05:22:47 +0800"
+    },
+    "done": true
+  },
   "createmetallurgy:graphite_molds": {
     "criteria": {
       "have_graphite_molds": "2025-03-04 05:22:50 +0800"
@@ -4246,21 +4264,9 @@
     },
     "done": true
   },
-  "createmetallurgy:casting_blocks": {
+  "ars_elemental:caster_bag": {
     "criteria": {
-      "have_casting_blocks": "2025-03-04 05:22:47 +0800"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/consume_sea_stew": {
-    "criteria": {
-      "sea_stew": "2025-03-04 04:46:49 +0800"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_forge_core": {
-    "criteria": {
-      "core": "2025-03-04 03:54:49 +0800"
+      "has_caster_bag": "2025-03-04 12:05:59 +0800"
     },
     "done": true
   },
