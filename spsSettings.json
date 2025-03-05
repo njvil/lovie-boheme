@@ -1,8 +1,10 @@
 {
-  "gameType": "ADVENTURE",
+  "gameType": "SURVIVAL",
   "difficulty": "NORMAL",
   "cheats": true,
-  "invited": [],
+  "invited": [
+    "a12261c8-d4ab-44c6-ad6a-2c9cfad55e34"
+  ],
   "shareResourcePack": false,
   "oppedPlayers": []
 }
