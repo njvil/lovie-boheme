@@ -4570,5 +4570,41 @@
     },
     "done": false
   },
+  "quark:pathfinder_map_center": {
+    "criteria": {
+      "pathfinder_map_center": "2025-03-10 14:20:07 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-03-10 14:21:12 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-03-10 14:51:43 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-03-10 14:49:29 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-03-10 14:29:50 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-03-10 14:44:34 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
